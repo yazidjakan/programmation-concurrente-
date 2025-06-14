@@ -1,12 +1,12 @@
-# 📦 Microservice Système de gestion de commandes en ligne - Spring WebFlux
+# Microservice Système de gestion de commandes en ligne - Spring WebFlux
 
-## 🧠 Description du Projet
+## Description du Projet
 
 Ce projet consiste en un microservice **réactif** de gestion des commandes dans une architecture e-commerce distribuée, utilisant **Spring WebFlux** pour des performances non bloquantes.  
 
 ---
 
-## ⚙️ Technologies principales
+## Technologies principales
 
 - **Spring Boot WebFlux** – programmation réactive et non bloquante
 - **MongoDB** – base de données NoSQL orientée document
@@ -17,7 +17,7 @@ Ce projet consiste en un microservice **réactif** de gestion des commandes dans
 
 ---
 
-## 🚀 Fonctionnalités Clés
+## Fonctionnalités Clés
 
 - Création, consultation, mise à jour et suppression de commandes
 - Envoi automatique de messages Kafka à d'autres services à la création
@@ -28,7 +28,7 @@ Ce projet consiste en un microservice **réactif** de gestion des commandes dans
 ---
 
 
-## 📊 Résultats des Performances
+## Résultats des Performances
 
 - Tous les endpoints sont chronométrés via `Micrometer`.
 - Des tests de charge ont été réalisés avec **Apache JMeter**.
@@ -37,7 +37,7 @@ Ce projet consiste en un microservice **réactif** de gestion des commandes dans
 ---
 
 
-## ✅ Lancement Local
+## Lancement Local
 
 1. Lancer `commande-service` avec `mvn spring-boot:run`
 2. Utiliser Swagger ou Postman pour tester les endpoints :
@@ -46,7 +46,7 @@ Ce projet consiste en un microservice **réactif** de gestion des commandes dans
 
 ---
 
-## 🧪 Exemple d'appel POST
+## Exemple d'appel POST
 
 ```json
 {
@@ -57,7 +57,7 @@ Ce projet consiste en un microservice **réactif** de gestion des commandes dans
 
 ---
 
-## 📁 Structure du Projet
+## Structure du Projet
 
 ```
 ├── src/
