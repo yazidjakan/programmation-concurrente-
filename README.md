@@ -34,15 +34,8 @@ Ce projet consiste en un microservice **réactif** de gestion des commandes dans
 - Des tests de charge ont été réalisés avec **Apache JMeter**.
 - Les résultats sont enregistrés sous forme de métriques (durée moyenne d’exécution, débit…).
 
-📎 Voir le rapport PDF des performances : [`resultats_micrometer_courbes.pdf`](./resultats_micrometer_courbes.pdf)
-
 ---
 
-## 📽️ Démo Vidéo
-
-Une vidéo est incluse dans ce dépôt montrant un test réel via JMeter.
-
----
 
 ## ✅ Lancement Local
 
